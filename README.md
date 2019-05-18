@@ -1,4 +1,4 @@
-# manjaro_architect_uefi-raid
+# manjaro_architect_uefi+raid
 
 sudo -s    
 
